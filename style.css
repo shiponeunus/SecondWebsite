@@ -1,0 +1,130 @@
+#main{
+  background-color:white;
+  color: #FAEBD7;
+  padding:5px;
+}
+.image1{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 30%;
+}
+.fog{
+  position: absolute;
+    top: 20px;
+    right: 16px;
+  width: 18%;
+}
+.pot{
+  position: absolute;
+    top: 12px;
+    left: 16px;
+  width: 15%;
+}
+
+#five{
+  color: #FFE84D;
+  font-size: 25px;
+  text-align: center;
+
+}
+.image2{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 18%;
+
+}
+
+#menu{
+background-color:#BE1E2D;
+padding:10px;
+border-style: ridge;
+border-width:12px;
+border-color:white;
+}
+
+h2{
+  color: white;
+  font-family:'Granjon';
+  font-size: 40px;
+  text-align: center;
+}
+
+
+#location{
+text-align: center;
+font-family: 'Granjon';
+font-size: 30px;
+background:#BE1E2D;
+color:white;
+  float: left;
+  width: 660px;
+  padding:16px;
+ border-style: ridge;
+  border-width:12px;
+  border-color:#99FF96;
+}
+h3{
+font-size: 35px;
+width: 650px;
+}
+
+#reviews{
+text-align: center;
+font-family: 'Granjon';
+font-size: 30px;
+background: #BE1E2D;
+color:white;
+  float: right;
+  width: 660px;
+  padding:4px;
+border-style: ridge;
+  border-width:12px;
+  border-color:#99FF96;
+}
+
+h4{
+  font-size: 35px;
+}
+
+#online{
+text-align: center;
+font-family: 'Granjon';
+font-size: 35px;
+background:#BE1E2D;
+color: white;
+  float: right;
+  width: 98%;
+  padding: 1px;
+ border-style: ridge;
+  border-width:12px;
+  border-color:white;
+}
+h5{
+  font-size: 35px;
+}
+.image3{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 30%;
+}
+.image4{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 30%;
+}
+.image5{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 30%;
+}
+.image6{
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+  width: 30%;
+}
