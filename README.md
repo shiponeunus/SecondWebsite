@@ -1,2 +1,2 @@
-# SecondWebsite
+# HomeworkSecondWebsite
 Second Website for Restaurant
